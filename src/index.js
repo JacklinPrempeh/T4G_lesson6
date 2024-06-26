@@ -9,3 +9,11 @@ let title=prompt('what is your title');
 let name=prompt('what is your name');
 let product=prompt('what is your preferred product');
 alert(`Hi ${title} ${name},do you like ${product}?`);
+let message ="hello there";
+let message1 =message + " you are welcome";
+let message2 =(`${message} I am happy to see you`);
+console.log(message1);
+console.log(message2);
+
+
+
