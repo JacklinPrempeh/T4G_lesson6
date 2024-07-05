@@ -1,9 +1,23 @@
 body{background-color: aquamarine;
 text-align: center;
 font-size: xx-large;}
-h1{
+/* h1{
     font-family: cursive;
     color: blue;
     background-color: antiquewhite;text-align: center;
 }
-h2{color: azure;}
+h2{color: azure;} */
+p{
+    background-color: aliceblue;
+    color: blue;
+    /* text-align: center; */
+    box-shadow: 5pt 5pt 5pt white;
+    text-shadow: 5pt 5pt 5pt black;
+}
+.all{
+    width: 40%;
+    margin: 0 auto;
+}
+#pfour{
+    display: none;
+}
